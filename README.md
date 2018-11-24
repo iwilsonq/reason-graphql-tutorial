@@ -1,4 +1,4 @@
-# reason-graphql-example
+# reason-graphql-tutorial
 
 ## Run Project
 
